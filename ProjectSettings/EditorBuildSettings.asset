@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/MainMenu.unity
+    guid: 9cb460595cd92804a92771e5748faa75
+  - enabled: 1
+    path: Assets/Scenes/LidcombeTest01.unity
+    guid: 91d66af374a54804193e3a5bdcdaaf36
+  - enabled: 0
+    path: Assets/Scenes/TestScene01v2.unity
+    guid: 1806f7b93d4b494448f3e2ca874bf401
+  - enabled: 0
+    path: Assets/Scenes/RichmondStation.unity
+    guid: 77585c969a52fb34584a27505c5acb26
+  - enabled: 0
+    path: Assets/LocoTest.unity
+    guid: dc70e6bbf238f4b90bf0d01f09cb13be
+  - enabled: 0
+    path: Assets/SimpleTrains/Scenes/Demo.unity
+    guid: bceeaeebf5168df498dd7f8d22d12b48
+  - enabled: 0
+    path: Assets/Oculus/VR/Scenes/TrackedKeyboard.unity
+    guid: eb540761693b1de438733a3581e21f58
+  - enabled: 0
+    path: Assets/Camera Test.unity
+    guid: 8730fe6e6df6f455598c7e0811834214
+  - enabled: 0
+    path: Assets/Oculus/SampleFramework/Usage/Locomotion.unity
+    guid: 024cd9dcd49bd8f46a6bea03aa8a21bb
+  - enabled: 0
+    path: Assets/VR 2.5 Locomotion Script/Demo.unity
+    guid: 2ac038ddd690e2645b12402e9c0f4b22
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: ec625fe4c3c0b422985d452acd5b0186, type: 2}
+    Unity.XR.OpenVR.Settings: {fileID: 11400000, guid: 88e46379503fa4811b7180e36cdf7c7f, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 59e5c96b6d6ba402ea5d4b5c7eaec206, type: 2}
+    xr.sdk.mock-hmd.settings: {fileID: 11400000, guid: 044cae8375c614a579258e8d844b29bd, type: 2}
